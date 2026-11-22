@@ -1,5 +1,5 @@
 def hello():
-  print("Hello, Github!")
+  print("Hello from Developer 2!")
 
 def main():
   hello()
