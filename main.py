@@ -1,5 +1,6 @@
 def hello():
-  print("Hello from Developer 2!")
+
+  print("Hello from Developer 1 and Developer 2!")
 
 def main():
   hello()
